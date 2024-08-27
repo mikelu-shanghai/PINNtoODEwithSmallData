@@ -21,7 +21,10 @@
 
 
 ## Requirements
-
+- CPU:
+  
+- GPU:
+  
 
 
 
