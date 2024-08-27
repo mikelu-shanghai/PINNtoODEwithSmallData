@@ -16,7 +16,7 @@
 
 ## Framework & Computational Flow
 
-
+!["PINNDiagram.png"](https://github.com/mikelu-shanghai/PINNtoODEwithSmallData/blob/main/figs/PINNDiagram.png)
 
 
 
