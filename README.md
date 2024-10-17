@@ -20,9 +20,9 @@
 
 
 ## Requirements
-- CPU:WIN10-env-PINN-CPU.yml
+- CPU: WIN10-env-PINN-CPU.yml
   
-- GPU:Ubuntu-env-PINN-GPU.yml
+- GPU: Ubuntu-env-PINN-GPU.yml
   
 
 
