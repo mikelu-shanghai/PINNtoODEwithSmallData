@@ -13,7 +13,7 @@
 
 # Soft-constrained PINN
 
-## Framework & Computational Flow
+## Framework & Computational Flow (PINNtoODE.pdf)
 
 !["PINNDiagram.png"](https://github.com/mikelu-shanghai/PINNtoODEwithSmallData/blob/main/figs/PINNDiagram.png)
 
