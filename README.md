@@ -2,7 +2,7 @@
 ## Paper Citations
 @misc{Pinn2ode-lu2024,
       title={Solving Oscillator ODEs via Soft-constrained Physics-informed Neural Network with Small Data}, 
-      author={Kai-liang Lu and Yu-meng Su and Zhuo Bi and Cheng Qiu and Wen-jun Zhang},
+      author={Kai-liang Lu, Yu-meng Su, et al},
       year={2024},
       eprint={2408.11077},
       archivePrefix={arXiv},
